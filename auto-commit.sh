@@ -1,6 +1,3 @@
-#!/bin/bash
-
-# Add and commit EVERYTHING recursively
 git add .
 
 # Loop through each change and make separate commits
